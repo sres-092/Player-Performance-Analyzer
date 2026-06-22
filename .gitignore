@@ -1,0 +1,21 @@
+# --- Python Bytecode & Cache ---
+__pycache__/
+*.py[cod]
+
+# --- Environments & Dependencies ---
+venv/
+.venv/
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Machine Learning Data & Artifacts ---
+data/*.csv
+artifacts/*.joblib
+artifacts/*.png
+artifacts/*.csv
